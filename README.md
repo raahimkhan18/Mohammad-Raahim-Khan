@@ -16,7 +16,7 @@
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="[https://instagram.com/your-instagram](https://www.instagram.com/_raahimkhan_/)" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://www.instagram.com/_raahimkhan_/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 <a href="mailto:raahimkhan18@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
