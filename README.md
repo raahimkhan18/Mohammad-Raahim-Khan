@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently working **Android Development**
+- 🌱 I’m currently working as **Android Development**
 - 💬 Ask me about **Java, Kotlin, Android, Retrofit, JSON, Room, SQLite**
 - 📫 How to reach me: **raahimkhan18@gmail.com**
 - 🔗 All of my projects: **https://github.com/raahimkhan18**
