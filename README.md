@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Raahim Khan</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Mobile Application Developer from India</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently working as **Android Development**
+- 🌱 I’m currently working as **Mobile Application Developer**
 - 💬 Ask me about **Java, Kotlin, Android, Retrofit, JSON, Room, SQLite**
 - 📫 How to reach me: **raahimkhan18@gmail.com**
 - 🔗 All of my projects: **https://github.com/raahimkhan18**
